@@ -12,7 +12,7 @@ const SocialLinks = () => {
           }
         >
           <a
-            href="https://github.com/AbRoo2002"
+            href="https://github.com/Abidr2002/"
             className="flex justify-between items-center w-full text-white"
           >
             GitHub <FaGithub size={30} />
