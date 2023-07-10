@@ -1,18 +1,18 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
+// import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+// import reactParallax from "../assets/portfolio/reactParallax.jpg";
 
 const Portfolio = () => {
-  const portfolios = [
-    {
-      id: 1,
-      src: arrayDestruct,
-    },
-    {
-      id: 2,
-      src: reactParallax,
-    },
-  ];
+  // const portfolios = [
+  //   {
+  //     id: 1,
+  //     src: arrayDestruct,
+  //   },
+  //   {
+  //     id: 2,
+  //     src: reactParallax,
+  //   },
+  // ];
 
   return (
     <div
