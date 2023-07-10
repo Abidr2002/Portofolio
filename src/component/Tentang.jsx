@@ -14,23 +14,18 @@ const Tentang = () => {
         </div>
 
         <p className="text-xl sm:text-2xl mt-8 sm:mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Saya Ahmad Hauzan Abid Romadhon mahasiswa informatika Universitas
+          Pembanguanan Nasional Veteran Jawa Timur angkatan 2021 yang memiliki
+          ketertarikan bersar terhadap Web Developer, dan selalu termotivasi
+          untuk mencoba berbagai hal baru.
         </p>
 
         <br />
 
         <p className="text-xl sm:text-2xl mt-8">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          Memiliki beberapa pengalaman dalam mengerjakan beberapa projek dengan
+          bahasa C++ dalam bentuk command line dan beberapa website menggunakan
+          HTML, CSS, Javascript, PHP serta framework React dan Tailwind.
         </p>
       </div>
     </div>
