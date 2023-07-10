@@ -30,7 +30,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-4 sm:px-0">
-          {portfolios.map(({ id, src }) => (
+          {/* {portfolios.map(({ id, src }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -43,7 +43,7 @@ const Portfolio = () => {
                 </button>
               </div>
             </div>
-          ))}
+          ))} */}
         </div>
       </div>
     </div>
